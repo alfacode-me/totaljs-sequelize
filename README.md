@@ -1,0 +1,2 @@
+# totaljs-sequelize
+Modules
